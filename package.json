@@ -1,0 +1,22 @@
+{
+  "name": "bittorent-client-nodejs",
+  "version": "1.0.0",
+  "description": "bittorent client built using NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "bittorent",
+    "torrent",
+    "p2p",
+    "peer-to-peer"
+  ],
+  "author": "Ayyoub Kasmi",
+  "license": "ISC",
+  "dependencies": {
+    "bigint-buffer": "^1.1.5",
+    "bncode": "^0.5.3"
+  }
+}
